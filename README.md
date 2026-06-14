@@ -52,3 +52,23 @@ MySQL database is used for storing:
 
 ## Author
 Likhitha Harikrishna
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home%20Page.png)
+
+### Login Page
+![Login Page](screenshots/Login.png)
+
+### Register Page
+![Register Page](screenshots/Register%20Page.png)
+
+### Portfolio Page
+![Portfolio Page](screenshots/Portfolio%20Page.png)
+
+### Watchlist Page
+![Watchlist Page](screenshots/Watchlist%20Page.png)
+
+### Alerts Page
+![Alerts Page](screenshots/Alerts%20Page.png)
