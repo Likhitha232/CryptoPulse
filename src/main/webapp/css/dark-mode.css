@@ -1,0 +1,24 @@
+body.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body.dark .card,
+body.dark .form-container {
+  background-color: #1e1e2f;
+  color: #e0e0e0;
+}
+
+body.dark table th {
+  background-color: #0f0f1a;
+}
+
+body.dark table td {
+  border-bottom: 1px solid #333;
+}
+
+body.dark .form-container input {
+  background-color: #2a2a3d;
+  border: 1px solid #444;
+  color: #e0e0e0;
+}
